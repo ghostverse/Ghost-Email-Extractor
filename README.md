@@ -1,4 +1,5 @@
 The "ghostEmailExtractor" script is a practical tool designed for businesses to streamline the extraction of relevant email addresses from text-based documents. With a focus on simplicity and user-friendliness, the script efficiently processes input files, identifies email addresses using regular expressions, and provides customization options such as filtering by domain extensions or excluding specific emails. The script's capabilities include handling duplicate entries, sorting the final list alphabetically, and saving the results in various file formats like CSV and Excel. By offering a straightforward command-line interface, the tool enhances email data management, supporting businesses in organizing and utilizing contact information effectively.
+**Features**
 
 1. **Email Extraction:** Extracts email addresses from a specified input file.
   
