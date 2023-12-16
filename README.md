@@ -24,4 +24,5 @@ The "ghostEmailExtractor" script is a practical tool designed for businesses to 
 
 12. **Exception Handling:** Handles unexpected errors and displays error messages.
 
+13. To run this script use this command ==> python3 ghostEmailExtractor.py
 13. **User-Friendly Prompts:** Presents clear and user-friendly prompts for input.
