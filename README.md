@@ -26,6 +26,6 @@ The "ghostEmailExtractor" script is a practical tool designed for businesses to 
 
 13. **User-Friendly Prompts:** Presents clear and user-friendly prompts for input.
 
-14. To run this script use this command ==> python3 ghostEmailExtractor.py
+14. To run this script use this command (without the quotation marks) ==> "python3 ghostEmailExtractor.py"
 
-15. Ensure that The email address list begins with ==> Email before your email addresses to avoid any error.
+15. Ensure that The email address list begins with ==> "Email" before your email addresses to avoid any error (without the quotation marks).
